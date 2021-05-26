@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.hikari.data",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.hikari.data."
+    },
+    {
+      "name": "log4j.rootLogger",
+      "type": "java.lang.String",
+      "description": "Description for log4j.rootLogger."
+    }
+  ] }
